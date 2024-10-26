@@ -1,6 +1,6 @@
 # Project Management App
 
-A simple project management application using Laravel 11, Tailwind and CSS.
+A simple project management application using Laravel 11, React and Tailwind CSS.
 
 ## Features
 
